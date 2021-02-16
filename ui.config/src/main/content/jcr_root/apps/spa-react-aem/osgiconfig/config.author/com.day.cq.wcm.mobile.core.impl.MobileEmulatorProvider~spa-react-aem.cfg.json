@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "spa-react-aem/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
