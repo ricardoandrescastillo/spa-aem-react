@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/css/main.e57bbe8a.chunk.css",
-    "main.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/main.3833befc.chunk.js",
-    "main.js.map": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/main.3833befc.chunk.js.map",
+    "main.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/main.b9ac4771.chunk.js",
+    "main.js.map": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/main.b9ac4771.chunk.js.map",
     "runtime-main.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/runtime-main.988b8cca.js",
     "runtime-main.js.map": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/runtime-main.988b8cca.js.map",
-    "static/js/2.6e9827ed.chunk.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/2.6e9827ed.chunk.js",
-    "static/js/2.6e9827ed.chunk.js.map": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/2.6e9827ed.chunk.js.map",
+    "static/js/2.77f89855.chunk.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/2.77f89855.chunk.js",
+    "static/js/2.77f89855.chunk.js.map": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/2.77f89855.chunk.js.map",
     "index.html": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/index.html",
-    "precache-manifest.a631ff22fc6b83b496fbd7514748aede.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/precache-manifest.a631ff22fc6b83b496fbd7514748aede.js",
+    "precache-manifest.da9ffb7375ee4e76dc537234ed1f7027.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/precache-manifest.da9ffb7375ee4e76dc537234ed1f7027.js",
     "service-worker.js": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/service-worker.js",
     "static/css/main.e57bbe8a.chunk.css.map": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/css/main.e57bbe8a.chunk.css.map",
-    "static/js/2.6e9827ed.chunk.js.LICENSE.txt": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/2.6e9827ed.chunk.js.LICENSE.txt"
+    "static/js/2.77f89855.chunk.js.LICENSE.txt": "/etc.clientlibs/spa-react-aem/clientlibs/clientlib-react/resources/static/js/2.77f89855.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.988b8cca.js",
-    "static/js/2.6e9827ed.chunk.js",
+    "static/js/2.77f89855.chunk.js",
     "static/css/main.e57bbe8a.chunk.css",
-    "static/js/main.3833befc.chunk.js"
+    "static/js/main.b9ac4771.chunk.js"
   ]
 }
